@@ -1,0 +1,11 @@
+holehe -> get email accounts
+iKnowYou -> general framework
+Osintgram -> get instagram data
+sherlock -> get usernames
+socialScan -> get usernames and email addr
+SubList3r -> domain lister
+phoneinfoga -> get info from phone number
+theHarvester -> find email accounts, open ports, names, and much more
+buster -> get email info (couldn't instal tho)
+Instagram Osint -> another instagram osint, it gets instagram data, obviously
+Karma -> search for leaked emails and passwords

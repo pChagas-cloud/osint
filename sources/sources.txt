@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=qwA6MmbeGNo -> OSINT course
+https://osintframework.com/ -> OSINT framework
+https://os2int.com/ -> Great osint website
